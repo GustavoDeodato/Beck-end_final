@@ -214,7 +214,7 @@ const getFiltroAnoCurso = function (siglaCurso, anoConclusao) {
         return false
     }
 }
-console.log(getFiltroAnoCurso('ds', '2022'))
+//console.log(getFiltroAnoCurso('ds', '2022'))
 module.exports = {
     getListadeCursos,
     getListaAlunos,
